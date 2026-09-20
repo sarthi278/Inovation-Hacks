@@ -1,0 +1,54 @@
+[
+  {
+    "id": "proj_1",
+    "name": "Atlas design system",
+    "description": "Unified component library and design tokens for web and mobile platforms.",
+    "meta": "12 tasks · 4 collaborators",
+    "progress": 72,
+    "color": "coral",
+    "initials": "AD",
+    "ownerId": "usr_1",
+    "collaborators": 4,
+    "createdAt": "2026-09-20T09:29:13.749Z",
+    "updatedAt": "2026-09-20T09:29:13.749Z"
+  },
+  {
+    "id": "proj_2",
+    "name": "Revenue intelligence",
+    "description": "Analytics engine and billing forecasting dashboard for recurring subscriptions.",
+    "meta": "8 tasks · 3 collaborators",
+    "progress": 48,
+    "color": "blue",
+    "initials": "RI",
+    "ownerId": "usr_1",
+    "collaborators": 3,
+    "createdAt": "2026-09-20T09:29:13.749Z",
+    "updatedAt": "2026-09-20T09:29:13.749Z"
+  },
+  {
+    "id": "proj_3",
+    "name": "Growth experiments",
+    "description": "A/B testing user onboarding flows and conversion funnel optimizations.",
+    "meta": "16 tasks · 6 collaborators",
+    "progress": 89,
+    "color": "green",
+    "initials": "GE",
+    "ownerId": "usr_1",
+    "collaborators": 6,
+    "createdAt": "2026-09-20T09:29:13.749Z",
+    "updatedAt": "2026-09-20T09:29:13.749Z"
+  },
+  {
+    "id": "68d56f41-ac10-4cac-bc82-3e28f53905ea",
+    "name": "AI Code Reviewer",
+    "description": "Automated PR reviewer using Gemini API",
+    "meta": "1 task · 1 done",
+    "progress": 100,
+    "color": "purple",
+    "initials": "AC",
+    "ownerId": "c55450df-e711-4ea6-9080-c19faedf9c9b",
+    "collaborators": 2,
+    "createdAt": "2026-09-20T09:29:50.480Z",
+    "updatedAt": "2026-09-20T09:29:50.480Z"
+  }
+]

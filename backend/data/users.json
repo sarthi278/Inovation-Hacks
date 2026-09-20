@@ -1,0 +1,38 @@
+[
+  {
+    "id": "usr_1",
+    "name": "Anubhav Yadav",
+    "email": "anubhav@innovationhacks.in",
+    "password": "$2a$10$Ncf8e2/DQMJok8WxhTVsd.2zYttQhGnBAjgWOtbVi9e3XuD7aHb.u",
+    "role": "lead",
+    "avatar": "AY",
+    "createdAt": "2026-09-20T09:29:13.726Z"
+  },
+  {
+    "id": "usr_2",
+    "name": "Jane Doe",
+    "email": "jane@innovationhacks.in",
+    "password": "$2a$10$Ncf8e2/DQMJok8WxhTVsd.2zYttQhGnBAjgWOtbVi9e3XuD7aHb.u",
+    "role": "developer",
+    "avatar": "JD",
+    "createdAt": "2026-09-20T09:29:13.749Z"
+  },
+  {
+    "id": "usr_3",
+    "name": "Mike Kowalski",
+    "email": "mike@innovationhacks.in",
+    "password": "$2a$10$Ncf8e2/DQMJok8WxhTVsd.2zYttQhGnBAjgWOtbVi9e3XuD7aHb.u",
+    "role": "developer",
+    "avatar": "MK",
+    "createdAt": "2026-09-20T09:29:13.749Z"
+  },
+  {
+    "id": "c55450df-e711-4ea6-9080-c19faedf9c9b",
+    "name": "Intern Tester",
+    "email": "test_1789896589611@innovationhacks.in",
+    "password": "$2a$10$Ry/XwA46TygaJ1UCsby2OuPkJ3dxXOS7SWRcO2uMEuosyoe8FvuwW",
+    "role": "developer",
+    "avatar": "IT",
+    "createdAt": "2026-09-20T09:29:50.232Z"
+  }
+]
