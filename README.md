@@ -32,9 +32,18 @@
 
 ---
 
+## 🔗 Live Deployment & Repository Links
+
+- 🌐 **Live Deployed Backend API**: [https://backend-five-psi-21.vercel.app/api](https://backend-five-psi-21.vercel.app/api)
+- 🏥 **Backend Health Check**: [https://backend-five-psi-21.vercel.app/api/health](https://backend-five-psi-21.vercel.app/api/health)
+- 🐙 **GitHub Repository**: [https://github.com/sarthi278/Inovation-Hacks](https://github.com/sarthi278/Inovation-Hacks)
+
+---
+
 ## 🎯 Internship Overview & Objectives
 
 This repository contains the completed, unified implementation of the 1-Month Full Stack Development Internship program by **Innovation Hacks**. All 4 milestone tasks have been architected, coded, connected, tested, and documented end-to-end.
+
 
 ---
 
@@ -164,7 +173,9 @@ npm start         # Launches dashboard on http://localhost:3000
 
 ## 📡 REST API Documentation
 
-Base URL: `http://localhost:5000/api`
+- **Live Base URL**: `https://backend-five-psi-21.vercel.app/api`
+- **Local Base URL**: `http://localhost:5000/api`
+
 
 ### 1. Authentication Endpoints
 - `POST /api/auth/register` — Register a new developer account
